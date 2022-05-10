@@ -1,0 +1,25 @@
+/* UTILITIES */
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   background: black;
+}
+
+.sketchfab-embed-wrapper{
+   text-align: center;
+   justify-content: center;
+   margin-top: 10%;
+   margin-left: 15%;
+   margin-right: 15%;
+}
+
+.sketchfab-embed-wrapper h2{
+   padding-bottom: 30px;
+   color: #fff;
+}
+
+.sketchfab-embed-wrapper p{
+   padding-top: 30px;
+   color: #fff;
+}
